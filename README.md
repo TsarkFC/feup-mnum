@@ -1,1 +1,2 @@
-god_the_saviour.py countains all the essential methods.
+FEUP - MNUM
+Numerical methods course @FEUP.
